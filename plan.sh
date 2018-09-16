@@ -1,7 +1,7 @@
 # This file is the heart of your application's habitat.
 # See full docs at https://www.habitat.sh/docs/reference/plan-syntax/
 pkg_name=gunicorn
-pkg_origin=qbr
+pkg_origin=qbrd
 pkg_version="19.9.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=("Apache-2.0")
